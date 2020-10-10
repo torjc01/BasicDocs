@@ -1,0 +1,6 @@
+/*
+* Copyright (c) 2020 Kryptogarten LLC
+* Auteur: Julio Cesar Torres <julio.torres@gmail.com> (@juliozohar)
+* SPDX-License-Identifier: CC-BY-NC-ND-4.0
+* License-Filename: LICENSES/CC-BY-NC-ND-4.0.txt
+*/
