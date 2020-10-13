@@ -1,0 +1,22 @@
+{
+    "$schema"    : "http://json-schema.org/draft-07/schema", 
+    "$id"        : "http://cqen.gouv.qc.ca/schema/v1/json-schema-template.json", 
+    "title"      : "Template de json-schema", 
+    "description": "Template de json-schema à adapter pour les schemas du projet SQIN", 
+    "type": "object", 
+    "properties": {
+        "prop1": {
+            "description": "Propriété 1 du schema", 
+            "type": "string"
+        },
+        "prop2": {
+            "description": "Propriété 2 du schema", 
+            "type": "string"
+        },
+        "prop3": {
+            "description": "Propriété 3 du schema", 
+            "type": "boolean"
+        }
+    }, 
+    "required": ["p1", "p2"]
+}
